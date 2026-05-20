@@ -2,7 +2,7 @@
 
 A collection of geospatial analyses, risk assessments, and cartographic work built with ArcGIS Pro, QGIS, Hazus 7.0, and related tools. This portfolio documents how raw public-data sources (Census, FEMA, CDC, USGS) move through a reproducible workflow into finished maps that answer specific questions for decision-makers.
 
-**Live site:** [peter-aina.github.io/GIS-portfolio](https://peter-aina.github.io/GIS-portfolio/)
+**Live site:** []()
 
 ---
 
@@ -10,7 +10,7 @@ A collection of geospatial analyses, risk assessments, and cartographic work bui
 
 This is a curated record of geospatial work, not a feed of every map I have ever made. Each project on the site was selected because it shows something specific about how I think about spatial problems: how I scope a study area, choose a hazard model, defend a symbology decision, or read social vulnerability against physical risk. The maps are paired with the question they answered, the data behind them, and the takeaway, so that a reviewer can evaluate the work rather than just look at the pictures.
 
-The portfolio currently centers on two multi-hazard risk assessments completed for INFO P-502 (Indiana University, Applied Data Science M.S.). Both projects use Hazus 7.0 as the modeling engine and ArcGIS Pro for cartographic finishing. As more work moves out of coursework and into deliverable form, additional projects will be added here.
+The portfolio currently centers on two multi-hazard risk assessments . Both projects use Hazus 7.0 as the modeling engine and ArcGIS Pro for cartographic finishing. As more work moves out of coursework and into deliverable form, additional projects will be added here.
 
 ---
 
@@ -135,20 +135,6 @@ Anyone using these maps to make a decision should know what they cannot tell you
 **Return-period assumptions are stationary.** The AAL calculation assumes a 100-year flood today is the same as a 100-year flood thirty years from now. Climate non-stationarity and ongoing land-use change in the watershed make this assumption increasingly questionable.
 
 These limitations are worth stating up front because the alternative (presenting modeled numbers as ground truth) is what gives quantitative risk assessment a bad reputation. The maps are best read as defensible estimates under documented assumptions, not as predictions.
-
----
-
-## About me
-
-I am a graduate student in Applied Data Science at Indiana University (M.S. expected May 2026) and a Data and Geospatial Engineering Intern at The POLIS Center at the IU Indianapolis Luddy School. My work sits at the intersection of geospatial analysis, hazard and risk modeling, and data engineering. Before graduate school I spent several years in fintech analytics, including fraud and risk work at Kraken and Wise Payments, which shaped how I think about defensibility and reproducibility in any analytical pipeline.
-
-I am interested in geospatial collaborations, hazard and resilience work, and conversations about data infrastructure for public-interest analysis.
-
-**Contact**
-- Email: ainapeter.o@gmail.com
-- LinkedIn: [linkedin.com/in/peteraina](https://www.linkedin.com/in/peteraina/)
-- GitHub: [github.com/peter-aina](https://github.com/peter-aina)
-- Location: Indianapolis, Indiana
 
 ---
 
